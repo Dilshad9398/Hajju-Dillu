@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://dilshad9398.github.io/Hajju-Dillu/
-**project demo video link** -  https://youtu.be/4jPn0v8PblM
+**project demo video link** -  https://youtu.be/4jPn0v8PblN
 
 ## Azure technologies used for Project
 
